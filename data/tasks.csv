@@ -1,0 +1,4 @@
+url,filename,sha256
+https://httpbin.org/bytes/1024,bytes-1024.bin,
+https://speed.cloudflare.com/__down?bytes=500000,cf-500k.bin,
+https://www.example.com/,example.html,

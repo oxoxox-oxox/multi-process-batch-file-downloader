@@ -1,0 +1,28 @@
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Go build artifacts
+*.test
+*.out
+coverage.out
+bin/
+
+# Runtime/output directories
+downloads/*
+!downloads/.gitkeep
+reports/*
+!reports/.gitkeep
+logs/*
+!logs/.gitkeep
+tmp/*
+!tmp/.gitkeep
+
+# Editor/OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
